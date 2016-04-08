@@ -1,2 +1,2 @@
 # goexample
-exampl repo using sublime
+exampl repo using sublime and gitsavvy
